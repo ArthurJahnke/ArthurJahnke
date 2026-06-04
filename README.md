@@ -1,16 +1,15 @@
-## Hi there 👋
+# Arthur Jahnke
 
-<!--
-**ArthurJahnke/ArthurJahnke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Programador Iniciante`**
 
-Here are some ideas to get you started:
+Me chamo Arthur Jahnke, tenho 15 anos e sou de São Paulo, Brasil. 🇧🇷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou aprendendo programação e desenvolvimento web. Sou apaixonado por tecnologia, hardware, games e criação de projetos.
+
+
+
+### 🚀 Tecnologias que estou aprendendo
+
+<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
